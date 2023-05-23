@@ -3,7 +3,9 @@ html {
     background-size: cover;
     width: 100%;
     height: 100%;
+    cursor: url("光标-15.png"), auto;
 }
+
 p {
     position: absolute;
     font-family: 思源黑体 CN;
@@ -13,13 +15,21 @@ p {
     left: 3%;
     right: 3%;
     z-index: 1;
+    top:-3px ;
 } 
 #grad1 {
     position: absolute;
     top: 0px;
+    left: 0px;
     height: 100%;
     width: 100%;
 	/* background-color: red;  */
-    background-image: linear-gradient(#86fff9, rgba(255, 255, 255, 0.247),rgba(255, 255, 255, 0.247), #86ff7f); 
+    background-image: linear-gradient(#86fff9, rgba(255, 255, 255, 0.247),rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.247), #86ff7f); 
     z-index: -1;
+}
+#eggbox {
+    top :12% ;
+    left: 10%;
+    position: absolute;
+    z-index: 1;
 }
