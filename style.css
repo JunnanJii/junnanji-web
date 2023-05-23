@@ -5,7 +5,10 @@ html {
     height: 100%;
     cursor: url("光标-15.png"), auto;
 }
-
+a {
+    color:#ff45ff;
+    border: none;
+}
 p {
     position: absolute;
     font-family: 思源黑体 CN;
@@ -46,6 +49,72 @@ h1 {
 #egg1 {
     position: absolute;
     z-index: 2;
-    left:10%;
-    top: 42%;
+    left:10.5%;
+    top: 45%;
+}
+#egg2 {
+    position: absolute;
+    z-index: 2;
+    left:22%;
+    top: 46%;
+}
+#egg3 {
+    position: absolute;
+    z-index: 2;
+    left:34%;
+    top: 45%;
+}
+#egg4 {
+    position: absolute;
+    z-index: 2;
+    left:46.5%;
+    top: 46%;
+}
+#egg5 {
+    position: absolute;
+    z-index: 2;
+    left:59%;
+    top: 44%;
+}
+#egg6 {
+    position: absolute;
+    z-index: 2;
+    left:70.5%;
+    top: 44.5%;
+}
+#egg7 {
+    position: absolute;
+    z-index: 3;
+    left:9.8%;
+    top: 57.5%;
+}
+#egg8 {
+    position: absolute;
+    z-index: 3;
+    left:21.8%;
+    top: 58%;
+}
+#egg9 {
+    position: absolute;
+    z-index: 3;
+    left:34.5%;
+    top: 58.5%;
+}
+#egg10 {
+    position: absolute;
+    z-index: 3;
+    left:46.5%;
+    top: 58.5%;
+}
+#egg11 {
+    position: absolute;
+    z-index: 3;
+    left:59%;
+    top: 58%;
+}
+#egg12 {
+    position: absolute;
+    z-index: 3;
+    left:71%;
+    top: 58%;
 }

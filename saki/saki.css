@@ -1,0 +1,33 @@
+html {
+    background-image: url("images/blue-sky.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    cursor: url("光标-15.png"), auto;
+}
+a {
+    color:#ff45ff;
+    /* color: white; */
+    border: none;
+}
+p {
+    position: absolute;
+    font-family: 思源黑体 CN;
+    font-weight: normal;
+    /* color:#ff45ff; */
+    color: white;
+    font-size: 18pt;
+    left: 3%;
+    right: 3%;
+    z-index: 1;
+    top:-3px ;
+} 
+#egg {
+    position: absolute;
+    width: 250px;
+    top: 10%;
+}
+#chicken {
+    position: absolute;
+    height: 800px;
+}
