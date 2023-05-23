@@ -28,8 +28,24 @@ p {
     z-index: -1;
 }
 #eggbox {
-    top :12% ;
-    left: 10%;
+    top :10% ;
+    left: 8.5%;
     position: absolute;
     z-index: 1;
+}
+h1 {
+    position: absolute;
+    color: white;
+    font-family: 思源黑体 CN;
+    font-weight: medium;
+    font-size: 42pt;
+    top: 18%;
+    left: 38%;
+    z-index: 2;
+}
+#egg1 {
+    position: absolute;
+    z-index: 2;
+    left:10%;
+    top: 42%;
 }
