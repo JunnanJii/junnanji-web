@@ -9,7 +9,7 @@ a {
     color:#001bdc;
     border: none;
 }
-p {
+#tou {
     position: absolute;
     font-family: 思源黑体 CN;
     font-weight: normal;
@@ -36,4 +36,28 @@ p {
     z-index: 0;
     width: 100%;
     bottom: 0px;
+}
+#a {
+    position:absolute ;
+    left: 40%;
+    width: 500px;
+    top: 15%;
+}
+#b {
+    position:absolute ;
+    left: 40%;
+    width: 500px;
+    top: 60%;
+}
+#you {
+    position: absolute;
+    font-family: 思源黑体 CN;
+    font-weight: normal;
+    /* color:#ff45ff; */
+    color:#001bdc;
+    font-size: 12pt;
+    width: 20%;
+    top: 13%;
+    right: 3%;
+    z-index: 1;
 }
