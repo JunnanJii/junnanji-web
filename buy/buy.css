@@ -1,0 +1,121 @@
+html {
+    background-image: url("images/05.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    cursor: url("光标-15.png"), auto;
+}
+a {
+    color:#ff45ff;
+    border: none;
+}
+p {
+    position: absolute;
+    font-family: 思源黑体 CN;
+    font-weight: normal;
+    color:#ff45ff;
+    font-size: 18pt;
+    left: 3%;
+    right: 3%;
+    z-index: 1;
+    top:-3px ;
+} 
+#grad1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+	/* background-color: red;  */
+    background-image: linear-gradient(#86fff9, rgba(255, 255, 255, 0.247),rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.247), #86ff7f); 
+    z-index: -1;
+}
+#eggbox {
+    top :10% ;
+    left: 8.5%;
+    position: absolute;
+    z-index: 1;
+}
+h1 {
+    position: absolute;
+    /* color: white; */
+    color: #1fffc9;
+    font-family: 思源黑体 CN;
+    font-weight: medium;
+    font-size: 42pt;
+    top: 18%;
+    left: 38%;
+    z-index: 2;
+}
+#egg1 {
+    position: absolute;
+    z-index: 2;
+    left:10.5%;
+    top: 45%;
+}
+#egg2 {
+    position: absolute;
+    z-index: 2;
+    left:22%;
+    top: 46%;
+}
+#egg3 {
+    position: absolute;
+    z-index: 2;
+    left:34%;
+    top: 45%;
+}
+#egg4 {
+    position: absolute;
+    z-index: 2;
+    left:46.5%;
+    top: 46%;
+}
+#egg5 {
+    position: absolute;
+    z-index: 2;
+    left:59%;
+    top: 44%;
+}
+#egg6 {
+    position: absolute;
+    z-index: 2;
+    left:70.5%;
+    top: 44.5%;
+}
+#egg7 {
+    position: absolute;
+    z-index: 3;
+    left:9.8%;
+    top: 57.5%;
+}
+#egg8 {
+    position: absolute;
+    z-index: 3;
+    left:21.8%;
+    top: 58%;
+}
+#egg9 {
+    position: absolute;
+    z-index: 3;
+    left:34.5%;
+    top: 58.5%;
+}
+#egg10 {
+    position: absolute;
+    z-index: 3;
+    left:46.5%;
+    top: 58.5%;
+}
+#egg11 {
+    position: absolute;
+    z-index: 3;
+    left:59%;
+    top: 58%;
+}
+#egg12 {
+    position: absolute;
+    z-index: 3;
+    left:71%;
+    top: 58%;
+}

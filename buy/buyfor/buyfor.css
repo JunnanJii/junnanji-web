@@ -1,0 +1,39 @@
+html {
+    /* background-image: url("images/05.jpg"); */
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    cursor: url("web-33.png"), auto;
+}
+a {
+    color:#001bdc;
+    border: none;
+}
+p {
+    position: absolute;
+    font-family: 思源黑体 CN;
+    font-weight: normal;
+    /* color:#ff45ff; */
+    color:#001bdc;
+    font-size: 18pt;
+    left: 3%;
+    right: 3%;
+    z-index: 1;
+    top:-3px ;
+} 
+#grad1 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+	/* background-color: red;  */
+    background-image: linear-gradient(#ff2ab493, rgba(255, 255, 255, 0.247),rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.247), #85ff7f9e); 
+    z-index: -1;
+}
+#grass {
+    position: absolute;
+    z-index: 0;
+    width: 100%;
+    bottom: 0px;
+}
