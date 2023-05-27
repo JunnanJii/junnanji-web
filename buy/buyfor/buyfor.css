@@ -23,7 +23,7 @@ a {
     top:-3px ;
 } 
 #grad1 {
-    position: absolute;
+    position: fixed;
     top: 0px;
     left: 0px;
     height: 100%;
@@ -64,5 +64,11 @@ a {
 }
 h1{
     color:#001bdc;
-    font-size: 12pt;
+    font-size: 18pt;
+    font-family: 思源黑体 CN;
+    font-weight: bold;
+    top: 13%;
+    left:  15%;
+    z-index: 1;
+    position: absolute;
 }
