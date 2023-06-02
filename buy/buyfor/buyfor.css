@@ -143,7 +143,7 @@ p::-webkit-scrollbar {
   div.scroll-container {
     /* background-color: #333; */
     overflow-y:auto;
-    overflow-x: hidden;
+    /* overflow-x: hidden; */
     white-space: nowrap;
     height: 80%;
     padding: 10px;
@@ -155,4 +155,23 @@ p::-webkit-scrollbar {
   
   div.scroll-container img {
     padding: 10px;
+  }
+  #dan{
+    position: absolute;
+    bottom:4% ;
+    left: 3%;
+}
+  #egg {
+    display: block;
+    width: 126px;
+    height: 180px;
+    background-color: #ff2ab4;
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    border:1px solid black;
+    /* animation: rotate1 8s linear infinite; */
+  }
+  @keyframes rotate1 {
+    from{
+        transform: translate(-50%,-50%) rotate(0deg);
+    }
   }
