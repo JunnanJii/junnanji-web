@@ -12,7 +12,7 @@ a {
 }
 #tou {
     position: absolute;
-    font-family: 思源黑体 CN;
+    font-family:'Source Han Sans CN',helvetica, sans-serif;
     font-weight: normal;
     /* color:#ff45ff; */
     color:#001bdc;
@@ -40,30 +40,34 @@ a {
 }
 #a {
     /* position:absolute ; */
-    left: 40%;
-    width: 500px;
-    top: 15%;
+
+    width: 100%;
+    
 }
 #b {
     /* position:absolute ; */
-    left: 40%;
-    width: 500px;
-    top: 60%;
+
+    width: 100%;
+
 }
 #c {
-    width: 500px;
+    width: 100%;
+}
+#f {
+    width: 100%;
+    left: 11%;
 }
 #d {
-    width: 500px;
+    width: 100%;
 }
 #e {
-    width: 500px;
+    width: 100%;
 }
 
 h1{
     color:#001bdc;
     font-size: 18pt;
-    font-family: 思源黑体 CN;
+    font-family: 'Source Han Sans CN',helvetica, sans-serif;
     z-index: 1;
     width: 300px;
 }
@@ -89,7 +93,7 @@ h1{
 h2{
     color:#001bdc;
     font-size: 18pt;
-    font-family: 思源黑体 CN;
+    font-family: 'Source Han Sans CN',helvetica, sans-serif;
     z-index: 1;
     width: 300px;
 }
@@ -114,7 +118,7 @@ h2{
 
   #you {
     position: absolute;
-    font-family: 思源黑体 CN;
+    font-family: 'Source Han Sans CN',helvetica, sans-serif;
     font-weight: normal;
     /* color:#ff45ff; */
     color:#001bdc;
@@ -125,7 +129,7 @@ h2{
     z-index: 1;
 }
   p#you{
-    font-family: 思源黑体 CN;
+    font-family: 'Source Han Sans CN',helvetica, sans-serif;
     color:#001bdc;
     font-size: 18pt;
     font-weight: normal;
@@ -148,9 +152,9 @@ p::-webkit-scrollbar {
     /* white-space: nowrap; */
     height: 80%;
     padding: 10px;
-    width: 50%;
+    width:35%; 
     left: 32.5%;
-    top: 13%;
+    top: 13.5%;
     position: absolute;
   }
   
