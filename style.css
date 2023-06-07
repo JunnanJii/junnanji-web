@@ -21,7 +21,7 @@ p {
     top:-3px ;
 } 
 #grad1 {
-    position: absolute;
+    position: fixed;
     top: 0px;
     left: 0px;
     height: 100%;
@@ -31,6 +31,7 @@ p {
     z-index: -1;
 }
 #eggbox {
+    width: 85%;
     top :10% ;
     left: 8.5%;
     position: absolute;
@@ -50,71 +51,71 @@ h1 {
     position: absolute;
     z-index: 2;
     left:10.5%;
-    top: 45%;
+    top: 50%;
 }
 #egg2 {
     position: absolute;
     z-index: 2;
     left:22%;
-    top: 46%;
+    top: 50%;
 }
 #egg3 {
     position: absolute;
     z-index: 2;
     left:34%;
-    top: 45%;
+    top: 50%;
 }
 #egg4 {
     position: absolute;
     z-index: 2;
     left:46.5%;
-    top: 46%;
+    top: 50%;
 }
 #egg5 {
     position: absolute;
     z-index: 2;
     left:59%;
-    top: 44%;
+    top: 50%;
 }
 #egg6 {
     position: absolute;
     z-index: 2;
-    left:70.5%;
-    top: 44.5%;
+    left:73.5%;
+    top: 50.5%;
 }
 #egg7 {
     position: absolute;
     z-index: 3;
-    left:9.8%;
-    top: 57.5%;
+    left:12.8%;
+    top: 66%;
 }
 #egg8 {
     position: absolute;
     z-index: 3;
-    left:21.8%;
-    top: 58%;
+    left:25%;
+    top: 66%;
 }
 #egg9 {
     position: absolute;
     z-index: 3;
-    left:34.5%;
-    top: 58.5%;
+    left:38%;
+    top: 68%;
 }
 #egg10 {
     position: absolute;
     z-index: 3;
-    left:46.5%;
-    top: 58.5%;
+    left:50.5%;
+    top: 68%;
 }
 #egg11 {
     position: absolute;
     z-index: 3;
-    left:59%;
-    top: 58%;
+    left:63%;
+    top: 65.5%;
 }
 #egg12 {
     position: absolute;
     z-index: 3;
-    left:71%;
-    top: 58%;
+    left:75.5%;
+    top: 67.5%;
 }
