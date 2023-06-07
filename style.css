@@ -50,38 +50,38 @@ h1 {
 #egg1 {
     position: absolute;
     z-index: 2;
-    left:10.5%;
-    top: 50%;
+    left:13.5%;
+    top: 52.5%;
 }
 #egg2 {
     position: absolute;
     z-index: 2;
-    left:22%;
-    top: 50%;
+    left:26%;
+    top: 53.5%;
 }
 #egg3 {
     position: absolute;
     z-index: 2;
-    left:34%;
-    top: 50%;
+    left:38.5%;
+    top: 54.5%;
 }
 #egg4 {
     position: absolute;
     z-index: 2;
-    left:46.5%;
-    top: 50%;
+    left:51%;
+    top: 54.5%;
 }
 #egg5 {
     position: absolute;
-    z-index: 2;
-    left:59%;
-    top: 50%;
+    z-index: 3;
+    left:63.2%;
+    top: 53%;
 }
 #egg6 {
     position: absolute;
     z-index: 2;
-    left:73.5%;
-    top: 50.5%;
+    left:75.3%;
+    top: 54%;
 }
 #egg7 {
     position: absolute;
