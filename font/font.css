@@ -29,7 +29,7 @@ a {
     height: 100%;
     width: 100%;
 	/* background-color: red;  */
-    background-image: linear-gradient(#ff2ab493, rgba(255, 255, 255, 0.247),rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.247), #85ff7f9e); 
+    background-image: linear-gradient(#bbff0087, rgba(255, 255, 255, 0.247),rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.247), #85ff7f9e); 
     z-index: -1;
 }
 #grass {
@@ -171,7 +171,7 @@ p::-webkit-scrollbar {
     display: block;
     width: 126px;
     height: 180px;
-    background-color: #ff2ab4;
+    background-color: #bdff00;
     border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
     border:1px solid black;
     /* animation: rotate1 8s linear infinite; */

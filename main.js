@@ -1,7 +1,7 @@
 const btn = document.querySelector('#egg4');
 
 function egg44() {
-  document.body.a.#egg4.src="资源21-8.png"
+  document.body.#egg4.src="资源21-8.png"
 	document.body.style.color = "#FFFFFF";
 }
 
