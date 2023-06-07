@@ -1,0 +1,183 @@
+html {
+    /* background-image: url("images/05.jpg"); */
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    cursor: url("shubiao-33.png"), auto;
+    /* cursor: url("光标-15.png"), auto; */
+}
+a {
+    color:#001bdc;
+    border: none;
+}
+#tou {
+    position: absolute;
+    font-family:'Source Han Sans CN',helvetica, sans-serif;
+    font-weight: normal;
+    /* color:#ff45ff; */
+    color:#001bdc;
+    font-size: 18pt;
+    left: 3%;
+    right: 3%;
+    z-index: 1;
+    top:-3px ;
+} 
+#grad1 {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100%;
+    width: 100%;
+	/* background-color: red;  */
+    background-image: linear-gradient(#ff2ab493, rgba(255, 255, 255, 0.247),rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.247), #85ff7f9e); 
+    z-index: -1;
+}
+#grass {
+    position: absolute;
+    z-index: 0;
+    width: 100%;
+    bottom: 0px;
+}
+#a {
+    /* position:absolute ; */
+
+    width: 100%;
+    
+}
+#b {
+    /* position:absolute ; */
+
+    width: 100%;
+
+}
+#c {
+    width: 100%;
+}
+#f {
+    width: 100%;
+    left: 11%;
+}
+#d {
+    width: 100%;
+}
+#e {
+    width: 100%;
+}
+
+h1{
+    color:#001bdc;
+    font-size: 18pt;
+    font-family: 'Source Han Sans CN',helvetica, sans-serif;
+    z-index: 1;
+    width: 300px;
+}
+#da1{
+    position: absolute;
+    top: 13%;
+    left:  12%;
+    font-weight: mediums;
+}
+#da2{
+    position: absolute;
+    width: 280px;
+    top: 22%;
+    left:  12%;
+    font-weight: medium;
+}
+#da3{
+    position: absolute;
+    top: 35%;
+    left:  12%;
+    font-weight: medium;
+}
+h2{
+    color:#001bdc;
+    font-size: 18pt;
+    font-family: 'Source Han Sans CN',helvetica, sans-serif;
+    z-index: 1;
+    width: 300px;
+}
+#name {
+    position: absolute;
+    top: 12.5%;
+    left:  3%;
+    font-weight: normal;
+}
+#medium{
+    position: absolute;
+    top: 21.5%;
+    left: 3%;
+    font-weight: normal;
+}
+#year{
+    position: absolute;
+    top: 34.5%;
+    left: 3%;
+    font-weight: normal;
+}
+
+  #you {
+    position: absolute;
+    font-family: 'Source Han Sans CN',helvetica, sans-serif;
+    font-weight: normal;
+    /* color:#ff45ff; */
+    color:#001bdc;
+    font-size: 12pt;
+    width: 20%;
+    top: 12.5%;
+    left: 70%;
+    z-index: 1;
+}
+  p#you{
+    font-family: 'Source Han Sans CN',helvetica, sans-serif;
+    color:#001bdc;
+    font-size: 18pt;
+    font-weight: normal;
+    text-align: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 24%;
+    height: 80%;
+    overflow: auto;
+
+}
+p::-webkit-scrollbar {
+    width: 0px;
+    height: 0px;
+    display: none;
+  }
+  div.scroll-container {
+    /* background-color: #333; */
+    overflow-y:auto;
+    /* overflow-x: hidden; */
+    /* white-space: nowrap; */
+    height: 80%;
+    padding: 10px;
+    width:35%; 
+    left: 32.5%;
+    top: 13.5%;
+    position: absolute;
+  }
+  
+  div.scroll-container img {
+    padding: 10px;
+  }
+  #dan{
+    position: absolute;
+    bottom:4% ;
+    left: 3%;
+}
+  #egg {
+    display: block;
+    width: 126px;
+    height: 180px;
+    background-color: #ff2ab4;
+    border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
+    border:1px solid black;
+    /* animation: rotate1 8s linear infinite; */
+  }
+  @keyframes rotate1 {
+    from{
+        transform: translate(-50%,-50%) rotate(0deg);
+    }
+  }

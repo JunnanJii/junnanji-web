@@ -11,7 +11,7 @@ a {
 }
 p {
     position: absolute;
-    font-family: 思源黑体 CN;
+    font-family: 'Source Han Sans CN',helvetica, sans-serif;
     font-weight: normal;
     color:#ff45ff;
     font-size: 18pt;
@@ -40,7 +40,7 @@ p {
 h1 {
     position: absolute;
     color: white;
-    font-family: 思源黑体 CN;
+    font-family: 'Source Han Sans CN',helvetica, sans-serif;
     font-weight: medium;
     font-size: 42pt;
     top: 18%;
