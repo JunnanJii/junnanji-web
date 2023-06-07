@@ -133,12 +133,13 @@ h2{
     color:#001bdc;
     font-size: 18pt;
     font-weight: normal;
-    text-align: justify;
+    text-align: left;
     padding-left: 20px;
     padding-right: 20px;
     width: 24%;
     height: 80%;
     overflow: auto;
+
 }
 p::-webkit-scrollbar {
     width: 0px;
