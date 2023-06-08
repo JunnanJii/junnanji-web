@@ -76,10 +76,11 @@ h1{
     top: 13%;
     left:  12%;
     font-weight: mediums;
+    width: 17%;
 }
 #da2{
     position: absolute;
-    width: 280px;
+    width: 17%;
     top: 22%;
     left:  12%;
     font-weight: medium;
@@ -87,6 +88,7 @@ h1{
 #da3{
     position: absolute;
     top: 35%;
+    width: 17%;
     left:  12%;
     font-weight: medium;
 }
