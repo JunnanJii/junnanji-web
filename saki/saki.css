@@ -9,6 +9,7 @@ a {
     color:#ff45ff;
     /* color: white; */
     border: none;
+    color: inherit;
 }
 p {
     position: absolute;
