@@ -27,6 +27,18 @@ p {
     width: 18%;
     top: 10%;
 }
+#kkk {
+    position: absolute;
+    width: 20%;
+    left: 3%;
+    top: 45%;
+}
+#bbb {
+    position: absolute;
+    width: 20%;
+    left: 3%;
+    top: 60%;
+}
 #chicken {
     position: absolute;
     width: 55%;
