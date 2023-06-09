@@ -30,40 +30,34 @@ p {
     background-image: linear-gradient(#86fff9, rgba(255, 255, 255, 0.247),rgba(255, 255, 255, 0),rgba(255, 255, 255, 0.247), #86ff7f); 
     z-index: -1;
 }
-#eggbox {
-    width: 85%;
-    top :10% ;
-    left: 8.5%;
-    position: absolute;
-    z-index: 1;
-}
+
 h1 {
     position: absolute;
     color: white;
     font-family: 'Source Han Sans CN',helvetica, sans-serif;
     font-weight: medium;
     font-size: 42pt;
-    top: 18%;
-    left: 38%;
+    top: 8%;
+    left: 37%;
     z-index: 2;
 }
 #egg1 {
     position: absolute;
     z-index: 2;
-    left:13.5%;
-    top: 52.5%;
+    left:6.5%;
+    top: 42.5%;
 }
 #egg2 {
     position: absolute;
     z-index: 2;
-    left:26%;
-    top: 53.5%;
+    left:20.5%;
+    top: 43.5%;
 }
 #egg3 {
     position: absolute;
     z-index: 2;
-    left:38.5%;
-    top: 54.5%;
+    left:34.7%;
+    top: 44%;
 }
 a:-webkit-any-link {
     color: -webkit-link;
@@ -73,8 +67,8 @@ a:-webkit-any-link {
     
     position: absolute;
     z-index: 2;
-    left:51%;
-    top: 54.5%;
+    left:49%;
+    top: 44.5%;
     overflow-clip-margin: content-box;
     overflow: clip;
 }
@@ -82,47 +76,67 @@ a:-webkit-any-link {
     position: absolute;
     z-index: 3;
     left:63.2%;
-    top: 53%;
+    top: 43%;
 }
 #egg6 {
     position: absolute;
     z-index: 2;
-    left:75.3%;
-    top: 54%;
+    left:77.3%;
+    top: 44%;
 }
 #egg7 {
     position: absolute;
     z-index: 3;
-    left:12.8%;
-    top: 66%;
+    left:5.3%;
+    top: 56%;
 }
 #egg8 {
     position: absolute;
     z-index: 3;
-    left:25%;
-    top: 66%;
+    left:19.5%;
+    top: 56%;
 }
 #egg9 {
     position: absolute;
     z-index: 3;
-    left:38%;
-    top: 68%;
+    left:34%;
+    top: 57%;
 }
 #egg10 {
     position: absolute;
     z-index: 3;
-    left:50.5%;
-    top: 68%;
+    left:49%;
+    top: 58%;
 }
 #egg11 {
     position: absolute;
     z-index: 3;
     left:63%;
-    top: 65.5%;
+    top: 55.5%;
 }
 #egg12 {
     position: absolute;
     z-index: 3;
-    left:75.5%;
-    top: 67.5%;
+    left:77.5%;
+    top: 57.5%;
+}
+#mid {
+    position: absolute;
+    height: 100%;
+    width: 85%;
+    top: 10%;
+    left: 8.5%;
+    z-index: 1;
+
+}
+#eggbox {
+    height: 81%;
+   width: 90%;
+  
+     /* bottom: 14%; */
+    /* /* top:10%; */
+    left: 3.5%; 
+    position: absolute;
+    top: 6%;
+    z-index: 1;
 }
