@@ -33,3 +33,9 @@ p {
     left: 30%;
     top: 10%;
 }
+#no {
+    position: absolute;
+    width: 30%;
+    left: 3%;
+    top: 16%;
+}
