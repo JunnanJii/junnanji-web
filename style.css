@@ -65,11 +65,18 @@ h1 {
     left:38.5%;
     top: 54.5%;
 }
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+}
 #egg4 {
+    
     position: absolute;
     z-index: 2;
     left:51%;
     top: 54.5%;
+    overflow-clip-margin: content-box;
+    overflow: clip;
 }
 #egg5 {
     position: absolute;
