@@ -25,8 +25,9 @@ p {
 } 
 #egg {
     position: absolute;
-    width: 18%;
-    top: 10%;
+    width: 11%;
+    top: 13.5%;
+    left: 3%;
 }
 #kkk {
     position: absolute;
@@ -43,6 +44,6 @@ p {
 #chicken {
     position: absolute;
     width: 55%;
-    left: 23%;
+    left: 25%;
     top: 0%;
 }
